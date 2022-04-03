@@ -26,5 +26,6 @@ echo ‘-(12-(4*32))’ | ./calc 0123456789 ‘()+-*/%’ 12
 116
 ```
 ## Made with
-- [Dorian MOY](https://github.com/dankyle6700)
-- [Daniel KOMOE](https://github.com/Croos3r)
+- [Dorian MOY](https://github.com/Croos3r)
+- [Daniel KOMOE](https://github.com/dankyle6700)
+
