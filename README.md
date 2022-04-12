@@ -3,7 +3,12 @@
 First big project of first year at Epitech at the end of the pool.
 
 Creation of a calculator able to display the result of the evaluation of an arithmetic expression composed of integers of infinite size expressed in any base.
-## Usage
+
+## Build
+```
+make
+```
+## Usage and Run
 ```
 ./calc base operators size_read
 
@@ -12,10 +17,6 @@ Creation of a calculator able to display the result of the evaluation of an arit
 - size_read: number of characters to be read
 ```
 
-## Build and Run
-```
-make
-```
 ## Example to use the program
 ```
 echo '3+6' | ./calc 0123456789 '()+-*/%' 3
