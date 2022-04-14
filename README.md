@@ -1,6 +1,6 @@
 # Bistro-Matic ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
-First big project of first year at Epitech at the end of the pool.
+First big project of first year at Epitech at the end of the pool
 
 Creation of a calculator able to display the result of the evaluation of an arithmetic expression composed of integers of infinite size expressed in any base.
 
